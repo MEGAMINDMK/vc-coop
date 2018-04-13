@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World!</title>
+    <link rel="stylesheet" href="default.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+	<style>
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(166,77,255);
+    background-color: rgba(166,77,255, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: red;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+</style>
+<style>
+		body {
+   background-image: url("contact-bk.png");
+   background-color: #cccccc;
+    height: 100%;
+	position: relative;
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}</style>
+  </head>
+  <body>
+    <div id="title-bar">
+      <div id="title"><span style="vertical-align: middle;"><img src="logo.png" style="width:20px;height:20px;"/></span>&nbsp;&nbsp; GTA CO-OP</div>
+      <div id="title-bar-btns">
+	 <span style="font-size:20px;cursor:pointer" onclick="openNav()">☰</span>
+        <button id="min-btn">-</button>
+        <button id="close-btn">x</button>
+      </div>
+    </div>
+	<a onclick="discord()"><img src="discord.png" width="80" height="80"></a>
+	<a onclick="forum()"><img src="logo.png" width="80" height="80"></a>
+	<center>
+	<form>
+	<a href="masterlist.html" class="btn btn-warning btn-lg" style="margin-top:450px;">Master-List</a>
+	<a href="http://grandtheftco-op.netlify.com/cleint.zip" class="btn btn-success btn-lg" style="margin-top:450px;">Get-Client</a>
+	<a href="http://grandtheftco-op.netlify.com/server.zip" class="btn btn-danger btn-lg" style="margin-top:450px;">Server(Windows)</a>
+	<a href="http://grandtheftco-op.netlify.com/linux.zip" class="btn btn-primary btn-lg" style="margin-top:450px;">Server(Linux)</a>
+	</form>
+	</center><br><br>
+	<p><font color="white">Build 1.1997.2018 <a href="https://grandtheftco-op.netlify.com/" target="_blank"><font color="white">Gta CO-OP</font></a></font></p>
+<script>
+function forum() {
+var shell = require('electron').shell;
+event.preventDefault();
+shell.openExternal('http://forum.vicecityco-op.ml/');
+}
+function discord() {
+var shell = require('electron').shell;
+event.preventDefault();
+shell.openExternal('https://discord.gg/u2u6U6G');
+}
+function openNav() {
+    document.getElementById("myNav").style.width = "100%";
+}
+
+function closeNav() {
+    document.getElementById("myNav").style.width = "0%";
+}
+ </script>
+ <div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="about.html">About</a>
+    <a href="clients.html">Staff</a>
+    <a href="contacts.html">Contact</a>
+  </div>
+</div>
+ <!--<body background="mp.jpg">-->
+	<script src="default.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+</body>
+</html>

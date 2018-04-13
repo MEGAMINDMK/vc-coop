@@ -1,0 +1,26 @@
+{
+  "name": "GTACO-OP",
+  "version": "1.0.0",
+  "description": "A GTACO-OP Team",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . coop --ignore=node_modules/electron-*",
+    "package": "asar pack coop-win32-ia32/resources/app coop-win32-ia32/resources/app.asar"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "asar": "^0.14.0",
+    "electron": "~1.7.8",
+    "electron-packager": "^10.1.2"
+  }
+}
