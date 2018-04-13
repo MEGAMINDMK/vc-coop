@@ -1,0 +1,46 @@
+onPlayerDeath(playerid, killerid, weapon)
+onPlayerRespawn(id)
+onPlayerMessage(id,msg) -- done
+onPlayerCommand(playerid,msg)
+onPedCreated(id)
+onVehCreated(id)
+onObjectCreated(id)
+onPlayerDisconnect(id,reason,name)
+onPlayerConnect(id) --done 
+onEntityRemove(id,type)
+onPlayerDisconnect(id, reason)
+onServerStart() --done
+
+   { "print",                    &CLuaScript::lua_Log },
+    { "sleep",                    &CLuaScript::lua_Sleep },
+    { "SendGlobalMessage",        &CLuaScript::lua_SendGlobalMessage },
+    { "SendPlayerMessage",        &CLuaScript::lua_SendPlayerMessage },
+    { "IsEntityValid",            &CLuaScript::lua_IsEntityValid },
+    { "GetEntityType",            &CLuaScript::lua_GetEntityType },
+    { "GetEntityPos",            &CLuaScript::lua_GetEntityPos },
+    { "SetEntityPos",            &CLuaScript::lua_SetEntityPos },
+    { "GetEntityOrientation",    &CLuaScript::lua_GetEntityOrientation },
+    { "SetEntityOrientation",    &CLuaScript::lua_SetEntityOrientation },
+    { "GetEntityControlPeer",    &CLuaScript::lua_GetEntityControlPeer },
+    { "SetEntityControlPeer",    &CLuaScript::lua_SetEntityControlPeer },
+    { "RemoveEntityControl",    &CLuaScript::lua_RemoveEntityControl },
+    { "GivePlayerWeapon",        &CLuaScript::lua_GivePlayerWeapon },
+
+    { "GetPlayerModel",            &CLuaScript::lua_GetPlayerModel },
+    { "SetPlayerModel",            &CLuaScript::lua_SetPlayerModel },
+    { "GetPlayerHealth",        &CLuaScript::lua_GetPlayerHealth },
+    { "SetPlayerHealth",        &CLuaScript::lua_SetPlayerHealth },
+    { "GetPlayerArmour",        &CLuaScript::lua_GetPlayerArmour },
+    { "SetPlayerArmour",        &CLuaScript::lua_SetPlayerArmour },
+    { "GetVehicleHealth",        &CLuaScript::lua_GetVehicleHealth },
+    { "SetVehicleHealth",        &CLuaScript::lua_SetVehicleHealth },
+    { "GetRandomModel",            &CLuaScript::lua_GetRandomModel },
+    { "GetRandomVehicleColor",    &CLuaScript::lua_GetRandomVehicleColor },
+    { "GetPlayerName",            &CLuaScript::lua_GetPlayerName },
+    { "StartMissionScript",        &CLuaScript::lua_StartMissionScript },
+    { "AddObject",                &CLuaScript::lua_AddObject },
+    { "AddVehicle",                &CLuaScript::lua_AddVehicle },
+    { "AddPed",                    &CLuaScript::lua_AddPed },
+
+
+/quit /exit !quit !exit /q !q /campos /pos /collapse /debug
