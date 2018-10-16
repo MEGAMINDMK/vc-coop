@@ -1,0 +1,21 @@
+-------------------------- > How to download and install <-----------------------
+
+1. enter this link
+http://www.grandtheftco-op.netlify.com
+2. download the client
+3. extract and move files  to ur gta vc directory
+4.open gta vc.exe
+5. enter ur name,ip,ports
+6.there maybe a default server
+adress so either join it, or if
+u know some other ip or ports
+do enter that
+7.enjoy
+
+
+Note: if u ran into an error asking for some dlls dont worry
+goto main website and download additional dlls and paste them to ur
+server directory
+
+
+
