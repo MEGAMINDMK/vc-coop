@@ -1,0 +1,13 @@
+[12:10:36][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[12:10:36][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[12:10:36][VC CO-OP Debug Server][CCustomData] E:\GTA servers 2017 2018\vcoopserver\scripts\server\default.lua	Type: Server Script	Data Size: 818
+[12:10:36][VC CO-OP Debug Server][CConfiguration] Auto-detection of gamemode was successful.
+[12:10:36][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[12:10:36][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[12:10:36][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[12:10:36][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[12:10:37][VC CO-OP Debug Server][Gamemode] TDCS v Coop Started
+[12:11:04][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name MEGAMIND is requesting to connect
+[12:11:04][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 0 connected
+[12:11:04][VC CO-OP Debug Server][Gamemode] Player MEGAMIND joined!
+[12:11:04][VC CO-OP Debug Server][CLuaScript] 0 is an invalid vehicle model ID!

@@ -1,0 +1,10 @@
+[09:52:37][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[09:52:37][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[09:52:37][VC CO-OP Debug Server][CConfiguration][ERROR] Could not open user-defined server game mode. Auto-detecting.
+[09:52:37][VC CO-OP Debug Server][CCustomData] C:\Users\mega\Desktop\vcoopserver\Scripts\Server\default.lua	Type: Server Script	Data Size: 663
+[09:52:37][VC CO-OP Debug Server][CConfiguration] Loaded gamemode successfully.
+[09:52:37][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[09:52:37][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[09:52:37][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[09:52:37][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[09:52:37][VC CO-OP Debug Server][Gamemode] TDCS v Coop Started

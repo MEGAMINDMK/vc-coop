@@ -1,0 +1,21 @@
+[12:26:57][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[12:26:57][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[12:26:57][VC CO-OP Debug Server][CCustomData] E:\GTA servers 2017 2018\vcoopserver\scripts\server\default.lua	Type: Server Script	Data Size: 739
+[12:26:57][VC CO-OP Debug Server][CConfiguration] Auto-detection of gamemode was successful.
+[12:26:57][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[12:26:57][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[12:26:57][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[12:26:57][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[12:26:57][VC CO-OP Debug Server][Gamemode] TDCS v Coop Started
+[12:27:33][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name MEGAMIND is requesting to connect
+[12:27:33][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 0 connected
+[12:27:33][VC CO-OP Debug Server][Gamemode] Player MEGAMIND joined!
+[12:28:50][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name Nickname123 is requesting to connect
+[12:28:50][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 1 connected
+[12:28:50][VC CO-OP Debug Server][Gamemode] Player Nickname123 joined!
+[12:29:48][VC CO-OP Debug Server][ID#1] Disconnected from server.
+[12:30:45][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name Nickname123 is requesting to connect
+[12:30:45][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 1 connected
+[12:30:46][VC CO-OP Debug Server][Gamemode] Player Nickname123 joined!
+[12:31:37][VC CO-OP Debug Server][ID#1] Disconnected from server.
+[12:43:49][VC CO-OP Debug Server][ID#0] Disconnected from server.

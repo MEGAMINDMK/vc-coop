@@ -1,0 +1,9 @@
+[16:12:31][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[16:12:31][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[16:12:31][VC CO-OP Debug Server][CCustomData] E:\GTA servers 2017 2018\vcoopserver\scripts\server\default.lua	Type: Server Script	Data Size: 741
+[16:12:31][VC CO-OP Debug Server][CConfiguration] Auto-detection of gamemode was successful.
+[16:12:31][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[16:12:31][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[16:12:31][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[16:12:31][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[16:12:31][VC CO-OP Debug Server][Gamemode] TDCS v Coop Started

@@ -1,0 +1,28 @@
+[12:18:20][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[12:18:20][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[12:18:20][VC CO-OP Debug Server][CCustomData] E:\GTA servers 2017 2018\vcoopserver\scripts\server\default.lua	Type: Server Script	Data Size: 739
+[12:18:20][VC CO-OP Debug Server][CConfiguration] Auto-detection of gamemode was successful.
+[12:18:20][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[12:18:20][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[12:18:20][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[12:18:20][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[12:18:20][VC CO-OP Debug Server][Gamemode] TDCS v Coop Started
+[12:18:58][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name MEGAMIND is requesting to connect
+[12:18:58][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 0 connected
+[12:18:58][VC CO-OP Debug Server][Gamemode] Player MEGAMIND joined!
+[12:20:31][VC CO-OP Debug Server][CServerNetwork] Player 0 is killed by entity -1 with weapon 255
+[12:21:00][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name Ahmed Ly is requesting to connect
+[12:21:00][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 1 connected
+[12:21:00][VC CO-OP Debug Server][Gamemode] Player Ahmed Ly joined!
+[12:21:28][VC CO-OP Debug Server][CServerNetwork] Player 0 is killed by entity 1 with weapon 255
+[12:22:00][VC CO-OP Debug Server][CServerNetwork] Player 0 is killed by entity 1 with weapon 20
+[12:23:56][VC CO-OP Debug Server][ID#0] Disconnected from server.
+[12:23:58][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name MEGAMIND is requesting to connect
+[12:23:58][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 2 connected
+[12:23:58][VC CO-OP Debug Server][Gamemode] Player MEGAMIND joined!
+[12:25:00][VC CO-OP Debug Server][CServerNetwork] Player 2 is killed by entity 1 with weapon 26
+[12:25:19][VC CO-OP Debug Server][ID#2] Disconnected from server.
+[12:25:20][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name MEGAMIND is requesting to connect
+[12:25:20][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 2 connected
+[12:25:20][VC CO-OP Debug Server][Gamemode] Player MEGAMIND joined!
+[12:25:31][VC CO-OP Debug Server][CServerNetwork] Player 1 is killed by entity 2 with weapon 20

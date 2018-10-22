@@ -1,0 +1,12 @@
+[09:03:44][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[09:03:44][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[09:03:44][VC CO-OP Debug Server][CConfiguration][ERROR] Could not open user-defined server game mode. Auto-detecting.
+[09:03:44][VC CO-OP Debug Server][CCustomData] E:\GTA servers 2017 2018\VC-COOP\Scripts\Server\default.lua	Type: Server Script	Data Size: 1175
+[09:03:44][VC CO-OP Debug Server][CConfiguration] Loaded gamemode successfully.
+[09:03:44][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[09:03:44][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[09:03:44][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[09:03:44][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[09:03:44][VC CO-OP Debug Server][Gamemode] Default Gamemode Started
+[09:03:44][VC CO-OP Debug Server][VehCreate] Created vehicle with ID: 0
+[09:03:44][VC CO-OP Debug Server][VehCreate] Created vehicle with ID: 1

@@ -1,0 +1,14 @@
+[09:40:33][VC CO-OP Debug Server][CCore] VC CO-OP Debug Server 0.02a loaded.
+[09:40:33][VC CO-OP Debug Server][CConfiguration] server.ini loaded successfully.
+[09:40:33][VC CO-OP Debug Server][CCustomData] C:\Users\mega\Desktop\vcoopserver\scripts\server\default.lua	Type: Server Script	Data Size: 663
+[09:40:33][VC CO-OP Debug Server][CConfiguration] Auto-detection of gamemode was successful.
+[09:40:33][VC CO-OP Debug Server][CCore][INFO] Server Port: 23546
+[09:40:33][VC CO-OP Debug Server][CCore][INFO] Server Secret: 420420420
+[09:40:33][VC CO-OP Debug Server][CServerNetwork][INFO] Server thread initialized
+[09:40:33][VC CO-OP Debug Server][CServerNetwork][INFO] Server started on port 23546
+[09:40:33][VC CO-OP Debug Server][Gamemode] TDCS v Coop Started
+[09:41:28][VC CO-OP Debug Server][CServerNetwork][CLIENT REQUEST] Network entity with name MEGAMIND is requesting to connect
+[09:41:28][VC CO-OP Debug Server][CServerNetwork][CLIENT CONNECTION] Network entity 0 connected
+[09:41:28][VC CO-OP Debug Server][Gamemode] Player MEGAMIND joined!
+[09:43:23][VC CO-OP Debug Server][CServerNetwork] Player 0 is killed by entity -1 with weapon 255
+[09:44:12][VC CO-OP Debug Server][ID#0] Disconnected from server.
